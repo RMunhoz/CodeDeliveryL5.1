@@ -1,0 +1,15 @@
+{
+  "name": "CodeDelivery",
+  "description": "0.1.0",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_components",
+    "test",
+    "tests"
+  ]
+}
